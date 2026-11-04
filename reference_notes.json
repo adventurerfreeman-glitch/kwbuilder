@@ -1,0 +1,15 @@
+{
+  "file": "for-model.mp3",
+  "duration_seconds": 53.525333333333336,
+  "sample_rate_hz": 48000,
+  "channels": 2,
+  "peak_dbfs": 0.3891170397400856,
+  "rms_dbfs": -16.210285698851862,
+  "user_section_order": [
+    "Scream voice 2 (Sullen)",
+    "Scream voice 3 (Moody)",
+    "Scream voice 4 (Angry)"
+  ],
+  "section_times": "Not supplied; no equal-thirds segmentation assumed",
+  "model_fitted": false
+}
