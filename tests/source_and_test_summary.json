@@ -1,0 +1,32 @@
+{
+  "rotary_parameter_ids": [
+    0,
+    1,
+    2,
+    12,
+    13,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "switch_parameter_ids": [
+    4,
+    11
+  ],
+  "visible_rotaries": 12,
+  "visible_switches": 2,
+  "dropdowns": 0,
+  "plugin_host_tested": false,
+  "core_tests_passed": true,
+  "all_tested_gain_steps_increased_thd": true,
+  "saturation_cases": 45,
+  "stability_cases": 72,
+  "default_lowcut_hz": 65,
+  "default_posttilt_db": 0,
+  "posttilt_pivot_hz": 800,
+  "reference_matched": false
+}
