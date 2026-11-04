@@ -1,0 +1,23 @@
+{
+  "rotary_parameter_ids": [
+    0,
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "switch_parameter_ids": [
+    4,
+    11
+  ],
+  "rotary_count": 10,
+  "switch_count": 2,
+  "combobox_instances": 0,
+  "full_plugin_runtime_tested": false,
+  "core_tests_return_code": 0
+}
